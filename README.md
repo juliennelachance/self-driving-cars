@@ -4,7 +4,7 @@ For the Princeton AI4ALL research project on autonomous vehicles.
 
 Final Project slides link:
 
-https://docs.google.com/presentation/d/1_h0G4PB0hMArrBaSW9N1NZkkHPaC214XLKihS90OwL0/edit?usp=sharing
+https://docs.google.com/presentation/d/1kYjRVgppqrstCZh2UdeuldAafOHDJkaKN4PfjKDb7Zk/edit#slide=id.g401c1147ab_5_77
 
 Adversarial attacks link:
 
